@@ -1,0 +1,51 @@
+body {
+  background: url(bunga.jpg) no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  padding-top: 0px;
+  padding-right: 30px;
+  padding-bottom: 0px;
+  padding-left: 50px;
+  text-align: center;
+  min-height: auto;
+}
+h2 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  padding-top: 25px;
+  padding-right: 30px;
+  padding-bottom: 11px;
+  padding-left: 50px;
+  text-align: center;
+  background-color: rgb(182, 213, 253);
+}
+h3 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  padding-top: 25px;
+  padding-right: 30px;
+  padding-bottom: 11px;
+  padding-left: 50px;
+  text-align: center;
+  background-color: rgb(182, 213, 253);
+}
+
+h4 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  padding-top: 25px;
+  padding-right: 30px;
+  padding-bottom: 11px;
+  padding-left: 50px;
+  text-align: center;
+  background-color: rgb(182, 213, 253);
+}
+h5 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  padding-top: 25px;
+  padding-right: 30px;
+  padding-bottom: 11px;
+  padding-left: 50px;
+  text-align: center;
+  background-color: rgb(182, 213, 253);
+}
